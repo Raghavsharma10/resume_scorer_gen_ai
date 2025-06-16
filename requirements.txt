@@ -1,0 +1,12 @@
+Langchain
+Langchain_community
+Langchain_core
+langchain_huggingface
+langchain_Groq
+PyPdf
+faiss-cpu
+Ollama
+python-dotenv
+streamlit
+langchain-text-splitters
+bs4
